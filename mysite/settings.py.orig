@@ -25,7 +25,11 @@ SECRET_KEY = 'a)u2=hy&kia+pk**b@7j)g#f3z=%=slq!!s&q7^(t^eet7(_p^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['127.0.0.1','nobuakira.pythonanywhere.com']
+=======
+ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
+>>>>>>> origin/master
 
 
 # Application definition
